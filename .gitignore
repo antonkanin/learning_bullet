@@ -1,0 +1,7 @@
+build/
+
+# CLion build folder
+cmake-build-debug/
+
+*.out
+.idea
