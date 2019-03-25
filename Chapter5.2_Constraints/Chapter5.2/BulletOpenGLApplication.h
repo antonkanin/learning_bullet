@@ -1,8 +1,8 @@
 #ifndef _BULLETOPENGLAPP_H_
 #define _BULLETOPENGLAPP_H_
 
-#include <Windows.h>
-#include <GL/GL.h>
+// #include <Windows.h>
+#include <GL/gl.h>
 #include <GL/freeglut.h>
 
 #include "BulletDynamics/Dynamics/btDynamicsWorld.h"
